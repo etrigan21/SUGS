@@ -1,0 +1,5 @@
+MQTT_USERNAME="user"
+MQTT_PASSWORD="password"
+MQTT_HOST="127.0.0.1"
+MQTT_PORT=1883
+OVERWRITE_DB=0 #0 if false, 1 if true

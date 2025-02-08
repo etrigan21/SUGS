@@ -1,0 +1,8 @@
+venv
+.env
+!mounted_device_configs/readme.md
+mounted_device_configs/*.json
+operations
+*.db
+__pycache__
+env
